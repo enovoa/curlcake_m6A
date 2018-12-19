@@ -1,3 +1,3 @@
-# 
-Detection of RNA modifications using Oxford Nanopore direct RNA sequencing
+# RNAmodDetector
+Detection of RNA modifications from Oxford Nanopore direct RNA sequencing reads
 
